@@ -1,0 +1,12 @@
+.container {
+  margin-top: 2rem;
+  font-size: 2rem;
+  display: flex;
+  align-items: center;
+  gap: 1.3rem;
+}
+
+.container button {
+  font-size: 1.5rem;
+  width: 3rem;
+}

@@ -1,0 +1,10 @@
+.transactions {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-grow: 1;
+}
+
+.transactions h1 {
+  font-size: 2rem;
+}
